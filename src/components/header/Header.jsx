@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./header.css"
+import "./Header.css"
 import navlogo from "../../assets/click.png"
 import { AiOutlineMenuUnfold } from "react-icons/ai";
 const Header = () => {
