@@ -1,5 +1,5 @@
 import React from 'react'
-import "./footer.css"
+import "./Footer.css"
 import navlogo from "../../assets/click.png"
 import { FaInstagram } from "react-icons/fa";
 const Footer = () => {
